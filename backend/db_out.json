@@ -1,0 +1,169 @@
+{
+  "test_users": [
+    {
+      "_id": "mn2z7hqvl38nqatd",
+      "firstName": "Adarsh",
+      "lastName": "Admin",
+      "email": "adarshraj62011@gmail.com",
+      "phone": "6201148908",
+      "nic": "0000000000000",
+      "dob": "2005-10-16",
+      "gender": "Male",
+      "password": "e8c00308a6d6a4691d47eb9db248ea20:d724f0188188de67742b2398647236bb91b2133c9c54eacd01768e0f07a0e25bd50fdf118eade7eaec3138638a6fe1a074e49d8ce5e14e69eaf6d52b0c6209db",
+      "role": "Admin",
+      "doctorDepartment": null,
+      "docAvatar": {
+        "public_id": null,
+        "url": null
+      },
+      "createdAt": "2026-03-23T09:21:12.374Z",
+      "updatedAt": "2026-03-23T09:39:00.000Z"
+    },
+    {
+      "_id": "mn2z8edijbmsdkpl",
+      "firstName": "Asha",
+      "lastName": "Rao",
+      "email": "doctor1@example.com",
+      "phone": "9876543210",
+      "nic": "1234567890123",
+      "dob": "1985-01-01",
+      "gender": "Female",
+      "password": "3958755879c8a42c1533399057b56fe2:909e15eb186beaae9a588f7798bc60c6ad17a288ec65575bb937f777d6ef279ac5e7c5a0fccd821d9538080e9baeb803207ae71e5e0976362e5c808eade3caa6",
+      "role": "Doctor",
+      "doctorDepartment": "Cardiology",
+      "docAvatar": null,
+      "createdAt": "2026-03-23T09:21:54.630Z",
+      "updatedAt": "2026-03-23T09:21:54.630Z"
+    },
+    {
+      "_id": "mn2z8eeh4rs771zb",
+      "firstName": "Rahul",
+      "lastName": "Shah",
+      "email": "patient1@example.com",
+      "phone": "9998887776",
+      "nic": "9999999999999",
+      "dob": "1999-01-01",
+      "gender": "Male",
+      "password": "be454eb393c48515da4d83bdca52ed50:e75c4ccbf27c532868c139d4336a629d32622fb7dd7d891b2f94d653ac2cbaef58c5c4f5f6d63fab7db05172155ac90afafefc6dabf0c50a239b98aa4ea16618",
+      "role": "Patient",
+      "doctorDepartment": null,
+      "docAvatar": {
+        "public_id": null,
+        "url": null
+      },
+      "createdAt": "2026-03-23T09:21:54.665Z",
+      "updatedAt": "2026-03-23T09:21:54.665Z"
+    },
+    {
+      "_id": "mn3olhwb6rfaq4tm",
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@example.com",
+      "phone": "1234567890",
+      "nic": "1234567890123",
+      "dob": "2000-01-01",
+      "gender": "Male",
+      "password": "9555d5f9ef0261a5ffbad88dd3542dc6:d81a9ed65137ab8656f9761cfbb1d4e0234ee30551d29e76dc7c51df9fee9bf3f06a306a6b5733b364956e805ac8389749320500d75f7c7983b388a2a57d8a3c",
+      "role": "Patient",
+      "doctorDepartment": null,
+      "docAvatar": {
+        "public_id": null,
+        "url": null
+      },
+      "createdAt": "2026-03-23T21:11:56.123Z",
+      "updatedAt": "2026-03-23T21:11:56.123Z"
+    },
+    {
+      "_id": "mn4veqkkez4dm6ip",
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "testuser2@example.com",
+      "phone": "9876543210",
+      "nic": "1234567890123",
+      "dob": "2000-01-01",
+      "gender": "Male",
+      "password": "468b5d438f0c8df0a1df812666aa158e:e02907a4b36984325f6c7906dec1d84531d529dd60d4cd8a81325f736187aa3d4c72116f2dc09624891ad21323941cb85373ca544f7bc7a9a4baca3a549c1312",
+      "role": "Patient",
+      "doctorDepartment": null,
+      "docAvatar": {
+        "public_id": null,
+        "url": null
+      },
+      "createdAt": "2026-03-24T17:10:24.265Z",
+      "updatedAt": "2026-03-24T17:10:24.265Z"
+    },
+    {
+      "_id": "mn4vjoqq9r0mgtrz",
+      "firstName": "Saurabh",
+      "lastName": "Raj",
+      "email": "satyanshu432@gmail.com",
+      "phone": "1234567899",
+      "nic": "1234568545",
+      "dob": "2004-05-04",
+      "gender": "Male",
+      "password": "c18cb794324e1758ddafbfc1f5ba92fe:2d674a117675664482ab34eec0bedaf3a42dcc397760710492dc5510241a2389db991d5d232c1aa5dd470587f184254220d4841c964cfa44e732384b225e8e2f",
+      "role": "Patient",
+      "doctorDepartment": null,
+      "docAvatar": {
+        "public_id": null,
+        "url": null
+      },
+      "createdAt": "2026-03-24T17:14:15.175Z",
+      "updatedAt": "2026-03-24T17:14:15.175Z"
+    },
+    {
+      "_id": "69c6ee935e9ce4b5dc1c5e0b",
+      "name": "Adarsh ",
+      "email": "adarshraj@gmail.com",
+      "password": "$2b$10$fgoD/S7mfwrCTYUOVLjo3OJrYxzPx6QkqrQAB.yZeVSQW0oJatWbC",
+      "profilePhoto": "",
+      "preferences": {
+        "theme": "light"
+      },
+      "createdAt": "2026-03-27T20:54:43.973Z",
+      "updatedAt": "2026-03-27T20:54:43.973Z",
+      "__v": 0
+    }
+  ],
+  "todoapp_users": [
+    {
+      "_id": "69c6e3279e35a50a8ede5c19",
+      "name": "Test User",
+      "email": "test@user.com",
+      "password": "$2b$10$EoYrKk0c4f5xqZ9RI8M3mu6WqjbEd1FqhZkr.KoJg9d7Z0lfWFTVC",
+      "profilePhoto": "",
+      "preferences": {
+        "theme": "light"
+      },
+      "createdAt": "2026-03-27T20:05:59.706Z",
+      "updatedAt": "2026-03-27T20:05:59.706Z",
+      "__v": 0
+    },
+    {
+      "_id": "69c6e5019e35a50a8ede5c24",
+      "name": "Test User",
+      "email": "test1@user.com",
+      "password": "$2b$10$YAUNDCSUZ2TNJRL9xkVTO.MTg0QfCfirxmws9T0OfdMNdJNuvU.OS",
+      "profilePhoto": "",
+      "preferences": {
+        "theme": "light"
+      },
+      "createdAt": "2026-03-27T20:13:53.825Z",
+      "updatedAt": "2026-03-27T20:13:53.825Z",
+      "__v": 0
+    },
+    {
+      "_id": "69c6e5f09e35a50a8ede5c4c",
+      "name": "Test User",
+      "email": "test2@user.com",
+      "password": "$2b$10$7mZT3cIHN74aU8srm9AOGOYS4Np5A1WuXI4y/hyFf1LWir2HnlkDW",
+      "profilePhoto": "",
+      "preferences": {
+        "theme": "light"
+      },
+      "createdAt": "2026-03-27T20:17:52.791Z",
+      "updatedAt": "2026-03-27T20:17:52.791Z",
+      "__v": 0
+    }
+  ]
+}
